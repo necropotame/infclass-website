@@ -1,0 +1,14 @@
+title: TeeUniverse
+url: "https://infc.teeuniverse.net"
+secondlevelurl: "https://teeuniverse.net"
+
+
+# Build settings
+permalink: /:title/
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - _scripts
